@@ -1,4 +1,4 @@
-    INFORMATION ABOUT PROJECT
+                INFORMATION ABOUT PROJECT
     This assessment was a project that be wanted me to finish by Codeep community. 
     This project was about the detailing of the university registery system. 
     This project has 3 classes whose names are University, Course and Student. 

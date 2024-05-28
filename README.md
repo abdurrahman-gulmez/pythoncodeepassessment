@@ -1,6 +1,6 @@
 # INFORMATION ABOUT PROJECT
-This assessment was a project that be wanted me to finish by **Codeep community**.  
-This project was about the detailing of the university registery system. 
+This assessment is a project that be wanted from me by **Codeep community**.  
+This project is about the detailing of the university registery system. 
 This project has 3 classes whose names are University, Course and Student. 
 University class inherits information from Course and Student classes. 
 University class has also some functions. 

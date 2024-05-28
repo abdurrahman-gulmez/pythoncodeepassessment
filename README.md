@@ -4,7 +4,7 @@ This project is about the detailing of the university registery system.
 This project has 3 classes whose names are University, Course and Student. 
 University class inherits information from Course and Student classes. 
 University class has also some functions. 
-They are instruction, addStudents, deleteStudents, showStudentFile, showCourseFile and showAllFile. 
+They are instruction, addStudents, deleteStudents, showStudentFile, showCourseFile and showAllFile funtions. 
 Instruction function offers some instructions to users and send him/her to other functions. 
 AddStudents function adds the course/courses that are defined before to the student that are entered the name and surname. 
 DeleteStudents function deletes the student/students from the course/courses. 
